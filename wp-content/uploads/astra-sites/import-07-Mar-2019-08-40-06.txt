@@ -1,0 +1,463 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.37 (Win64) PHP/7.2.14
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 7.2.14
+PHP Max Input Vars 	: 2500
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/Madrid
+
+-----
+
+Importing Started! - 20:54:56 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 20:54:56 UTC
+
+---
+
+2. Importing "XML"  - 20:54:58 UTC
+Imported "Electricians Tips &amp; Tricks" (category)
+Term 14 remapped to 2
+Imported "Uncategorized" (category)
+Term 1 remapped to 3
+Failed to import astra-site-page-builder Beaver Builder
+Taxonomía no válida.
+Failed to import astra-site-page-builder Brizy
+Taxonomía no válida.
+Failed to import astra-site-page-builder Elementor
+Taxonomía no válida.
+Failed to import astra-sites-type Free
+Taxonomía no válida.
+Failed to import astra-sites-type Premium
+Taxonomía no válida.
+Imported "section" (elementor_library_type)
+Term 6 remapped to 4
+Imported "Top Nav" (nav_menu)
+Term 4 remapped to 5
+Imported "Astra Electricians Favicon" (Medios)
+Post 4 remapped to 11
+Imported "Homepage Hero Image" (Medios)
+Post 5 remapped to 12
+Imported "Plugs" (Medios)
+Post 43 remapped to 43
+Imported "Cost Saving" (Medios)
+Post 74 remapped to 74
+Imported "Earthing" (Medios)
+Post 75 remapped to 75
+Imported "24x7 Support" (Medios)
+Post 76 remapped to 76
+Imported "Electrician" (Medios)
+Post 90 remapped to 90
+Imported "Wiring" (Medios)
+Post 91 remapped to 91
+Imported "Electrician" (Medios)
+Post 92 remapped to 92
+Imported "Commercial Services" (Medios)
+Post 94 remapped to 94
+Imported "Residential Services" (Medios)
+Post 96 remapped to 96
+Imported "Generator Set" (Medios)
+Post 101 remapped to 101
+Imported "Electric Insurance" (Medios)
+Post 102 remapped to 102
+Imported "Lighting" (Medios)
+Post 104 remapped to 104
+Imported "Wiring" (Medios)
+Post 105 remapped to 105
+Imported "Award" (Medios)
+Post 203 remapped to 203
+Imported "Award" (Medios)
+Post 204 remapped to 204
+Imported "Award" (Medios)
+Post 206 remapped to 206
+Imported "Client Logo" (Medios)
+Post 217 remapped to 217
+Imported "Client Logo" (Medios)
+Post 218 remapped to 218
+Imported "Client Logo" (Medios)
+Post 219 remapped to 219
+Imported "Client Logo" (Medios)
+Post 220 remapped to 220
+Imported "Client Logo" (Medios)
+Post 221 remapped to 221
+Imported "Ceiling Lights" (Medios)
+Post 254 remapped to 254
+Imported "Ceiling Fan" (Medios)
+Post 331 remapped to 331
+Imported "LED Bulb" (Medios)
+Post 341 remapped to 341
+Imported "City Scape" (Medios)
+Post 346 remapped to 346
+Imported "Team of electricians" (Medios)
+Post 368 remapped to 368
+Imported "Industrial Services" (Medios)
+Post 443 remapped to 443
+Imported "Services Hero Image" (Medios)
+Post 448 remapped to 448
+Imported "About Hero Image" (Medios)
+Post 452 remapped to 452
+Imported "FAQ Hero Image" (Medios)
+Post 454 remapped to 454
+Imported "electrician-astra-facebook-yoast-free-img" (Medios)
+Post 461 remapped to 461
+Imported "sparkelectricianfree-img" (Medios)
+Post 510 remapped to 510
+Imported "sparkelectrician@2x-free-img" (Medios)
+Post 511 remapped to 511
+Imported "client2-free-img-nnt5hcimi9ldd6vsj9t16h7do75laya6bkq4s1t52i" (Medios)
+Post 512 remapped to 512
+Imported "electric-blog-01" (Medios)
+Post 901 remapped to 901
+Imported "electric-blog-02" (Medios)
+Post 903 remapped to 903
+Imported "electric-blog-03" (Medios)
+Post 905 remapped to 905
+Imported "electric-blog-04" (Medios)
+Post 907 remapped to 907
+Imported "Home" (Página)
+Post 2 remapped to 908
+Imported "About Us" (Página)
+Post 11 remapped to 909
+Imported "Services" (Página)
+Post 14 remapped to 14
+Imported "FAQ" (Página)
+Post 16 remapped to 16
+Imported "Contact" (Página)
+Post 18 remapped to 18
+Imported "" (Elemento del menú de navegación)
+Post 20 remapped to 20
+Processing menu item post_type
+Menu item 18 mapped to 18
+Imported "" (Elemento del menú de navegación)
+Post 21 remapped to 21
+Processing menu item post_type
+Menu item 16 mapped to 16
+Imported "" (Elemento del menú de navegación)
+Post 22 remapped to 22
+Processing menu item post_type
+Menu item 14 mapped to 14
+Imported "" (Elemento del menú de navegación)
+Post 23 remapped to 23
+Processing menu item post_type
+Menu item 11 mapped to 909
+Imported "" (Elemento del menú de navegación)
+Post 24 remapped to 24
+Processing menu item post_type
+Menu item 2 mapped to 908
+Imported "Should I Buy an Emergency Generator?" (Entrada)
+Post 251 remapped to 251
+Imported "Why Are the Lights Flickering?" (Entrada)
+Post 252 remapped to 252
+Imported "Using a Multimeter at Home" (Entrada)
+Post 253 remapped to 253
+Imported "Blog" (Página)
+Post 377 remapped to 377
+Imported "astra" (CSS personalizado)
+Post 424 remapped to 424
+Imported "Footer" (Template)
+Post 490 remapped to 490
+Imported "Bugs in Your Electrical Outlet: It Really Can Happen" (Entrada)
+Post 898 remapped to 898
+Imported "electric-blog-05" (Medios)
+Post 909 remapped to 910
+Imported "electric-blog-06" (Medios)
+Post 911 remapped to 911
+Imported "" (Elemento del menú de navegación)
+Post 920 remapped to 920
+Processing menu item post_type
+Menu item 377 mapped to 377
+Imported "Footer Enquiry Form" (Contact Form)
+Post 9 remapped to 921
+Imported "Hero Section Enquiry Form" (Contact Form)
+Post 133 remapped to 133
+Imported "When Should You Schedule an Electrical Inspection?" (Entrada)
+Post 255 remapped to 255
+Imported "What is a Ground Wire, and Why Is It Important?" (Entrada)
+Post 261 remapped to 261
+Running post-processing for post 11
+Could not find the author for "Astra Electricians Favicon" (post #11)
+Post 11 was imported with author "harshadd", but could not be found
+Post 11 was marked for post-processing, but none was required.
+Running post-processing for post 12
+Could not find the author for "Homepage Hero Image" (post #12)
+Post 12 was imported with author "harshadd", but could not be found
+Post 12 was marked for post-processing, but none was required.
+Running post-processing for post 43
+Could not find the author for "Plugs" (post #43)
+Post 43 was imported with author "harshadd", but could not be found
+Post 43 was marked for post-processing, but none was required.
+Running post-processing for post 74
+Could not find the author for "Cost Saving" (post #74)
+Post 74 was imported with author "harshadd", but could not be found
+Post 74 was marked for post-processing, but none was required.
+Running post-processing for post 75
+Could not find the author for "Earthing" (post #75)
+Post 75 was imported with author "harshadd", but could not be found
+Post 75 was marked for post-processing, but none was required.
+Running post-processing for post 76
+Could not find the author for "24&#215;7 Support" (post #76)
+Post 76 was imported with author "harshadd", but could not be found
+Post 76 was marked for post-processing, but none was required.
+Running post-processing for post 90
+Could not find the author for "Electrician" (post #90)
+Post 90 was imported with author "harshadd", but could not be found
+Post 90 was marked for post-processing, but none was required.
+Running post-processing for post 91
+Could not find the author for "Wiring" (post #91)
+Post 91 was imported with author "harshadd", but could not be found
+Post 91 was marked for post-processing, but none was required.
+Running post-processing for post 92
+Could not find the author for "Electrician" (post #92)
+Post 92 was imported with author "harshadd", but could not be found
+Post 92 was marked for post-processing, but none was required.
+Running post-processing for post 94
+Could not find the author for "Commercial Services" (post #94)
+Post 94 was imported with author "harshadd", but could not be found
+Post 94 was marked for post-processing, but none was required.
+Running post-processing for post 96
+Could not find the author for "Residential Services" (post #96)
+Post 96 was imported with author "harshadd", but could not be found
+Post 96 was marked for post-processing, but none was required.
+Running post-processing for post 101
+Could not find the author for "Generator Set" (post #101)
+Post 101 was imported with author "harshadd", but could not be found
+Post 101 was marked for post-processing, but none was required.
+Running post-processing for post 102
+Could not find the author for "Electric Insurance" (post #102)
+Post 102 was imported with author "harshadd", but could not be found
+Post 102 was marked for post-processing, but none was required.
+Running post-processing for post 104
+Could not find the author for "Lighting" (post #104)
+Post 104 was imported with author "harshadd", but could not be found
+Post 104 was marked for post-processing, but none was required.
+Running post-processing for post 105
+Could not find the author for "Wiring" (post #105)
+Post 105 was imported with author "harshadd", but could not be found
+Post 105 was marked for post-processing, but none was required.
+Running post-processing for post 203
+Could not find the author for "Award" (post #203)
+Post 203 was imported with author "harshadd", but could not be found
+Post 203 was marked for post-processing, but none was required.
+Running post-processing for post 204
+Could not find the author for "Award" (post #204)
+Post 204 was imported with author "harshadd", but could not be found
+Post 204 was marked for post-processing, but none was required.
+Running post-processing for post 206
+Could not find the author for "Award" (post #206)
+Post 206 was imported with author "harshadd", but could not be found
+Post 206 was marked for post-processing, but none was required.
+Running post-processing for post 217
+Could not find the author for "Client Logo" (post #217)
+Post 217 was imported with author "harshadd", but could not be found
+Post 217 was marked for post-processing, but none was required.
+Running post-processing for post 218
+Could not find the author for "Client Logo" (post #218)
+Post 218 was imported with author "harshadd", but could not be found
+Post 218 was marked for post-processing, but none was required.
+Running post-processing for post 219
+Could not find the author for "Client Logo" (post #219)
+Post 219 was imported with author "harshadd", but could not be found
+Post 219 was marked for post-processing, but none was required.
+Running post-processing for post 220
+Could not find the author for "Client Logo" (post #220)
+Post 220 was imported with author "harshadd", but could not be found
+Post 220 was marked for post-processing, but none was required.
+Running post-processing for post 221
+Could not find the author for "Client Logo" (post #221)
+Post 221 was imported with author "harshadd", but could not be found
+Post 221 was marked for post-processing, but none was required.
+Running post-processing for post 254
+Could not find the author for "Ceiling Lights" (post #254)
+Post 254 was imported with author "harshadd", but could not be found
+Post 254 was marked for post-processing, but none was required.
+Running post-processing for post 331
+Could not find the author for "Ceiling Fan" (post #331)
+Post 331 was imported with author "harshadd", but could not be found
+Post 331 was marked for post-processing, but none was required.
+Running post-processing for post 341
+Could not find the author for "LED Bulb" (post #341)
+Post 341 was imported with author "harshadd", but could not be found
+Post 341 was marked for post-processing, but none was required.
+Running post-processing for post 346
+Could not find the author for "City Scape" (post #346)
+Post 346 was imported with author "harshadd", but could not be found
+Post 346 was marked for post-processing, but none was required.
+Running post-processing for post 368
+Could not find the author for "Team of electricians" (post #368)
+Post 368 was imported with author "harshadd", but could not be found
+Post 368 was marked for post-processing, but none was required.
+Running post-processing for post 443
+Could not find the author for "Industrial Services" (post #443)
+Post 443 was imported with author "harshadd", but could not be found
+Post 443 was marked for post-processing, but none was required.
+Running post-processing for post 448
+Could not find the author for "Services Hero Image" (post #448)
+Post 448 was imported with author "harshadd", but could not be found
+Post 448 was marked for post-processing, but none was required.
+Running post-processing for post 452
+Could not find the author for "About Hero Image" (post #452)
+Post 452 was imported with author "harshadd", but could not be found
+Post 452 was marked for post-processing, but none was required.
+Running post-processing for post 454
+Could not find the author for "FAQ Hero Image" (post #454)
+Post 454 was imported with author "harshadd", but could not be found
+Post 454 was marked for post-processing, but none was required.
+Running post-processing for post 461
+Could not find the author for "electrician-astra-facebook-yoast-free-img" (post #461)
+Post 461 was imported with author "harshadd", but could not be found
+Post 461 was marked for post-processing, but none was required.
+Running post-processing for post 510
+Could not find the author for "sparkelectricianfree-img" (post #510)
+Post 510 was imported with author "ramak", but could not be found
+Post 510 was marked for post-processing, but none was required.
+Running post-processing for post 511
+Could not find the author for "sparkelectrician@2x-free-img" (post #511)
+Post 511 was imported with author "ramak", but could not be found
+Post 511 was marked for post-processing, but none was required.
+Running post-processing for post 512
+Could not find the author for "client2-free-img-nnt5hcimi9ldd6vsj9t16h7do75laya6bkq4s1t52i" (post #512)
+Post 512 was imported with author "satishk", but could not be found
+Post 512 was marked for post-processing, but none was required.
+Running post-processing for post 901
+Could not find the author for "electric-blog-01" (post #901)
+Post 901 was imported with author "navanathb", but could not be found
+Running post-processing for post 903
+Could not find the author for "electric-blog-02" (post #903)
+Post 903 was imported with author "navanathb", but could not be found
+Running post-processing for post 905
+Could not find the author for "electric-blog-03" (post #905)
+Post 905 was imported with author "navanathb", but could not be found
+Running post-processing for post 907
+Could not find the author for "electric-blog-04" (post #907)
+Post 907 was imported with author "navanathb", but could not be found
+Running post-processing for post 908
+Could not find the author for "Home" (post #908)
+Post 908 was imported with author "harshadd", but could not be found
+Post 908 was marked for post-processing, but none was required.
+Running post-processing for post 909
+Could not find the author for "About Us" (post #909)
+Post 909 was imported with author "harshadd", but could not be found
+Post 909 was marked for post-processing, but none was required.
+Running post-processing for post 14
+Could not find the author for "Services" (post #14)
+Post 14 was imported with author "harshadd", but could not be found
+Post 14 was marked for post-processing, but none was required.
+Running post-processing for post 16
+Could not find the author for "FAQ" (post #16)
+Post 16 was imported with author "harshadd", but could not be found
+Post 16 was marked for post-processing, but none was required.
+Running post-processing for post 18
+Could not find the author for "Contact" (post #18)
+Post 18 was imported with author "harshadd", but could not be found
+Post 18 was marked for post-processing, but none was required.
+Running post-processing for post 20
+Could not find the author for "" (post #20)
+Post 20 was imported with author "harshadd", but could not be found
+Post 20 was marked for post-processing, but none was required.
+Running post-processing for post 21
+Could not find the author for "" (post #21)
+Post 21 was imported with author "harshadd", but could not be found
+Post 21 was marked for post-processing, but none was required.
+Running post-processing for post 22
+Could not find the author for "" (post #22)
+Post 22 was imported with author "harshadd", but could not be found
+Post 22 was marked for post-processing, but none was required.
+Running post-processing for post 23
+Could not find the author for "" (post #23)
+Post 23 was imported with author "harshadd", but could not be found
+Post 23 was marked for post-processing, but none was required.
+Running post-processing for post 24
+Could not find the author for "" (post #24)
+Post 24 was imported with author "harshadd", but could not be found
+Post 24 was marked for post-processing, but none was required.
+Running post-processing for post 251
+Could not find the author for "Should I Buy an Emergency Generator?" (post #251)
+Post 251 was imported with author "navanathb", but could not be found
+Post 251 was marked for post-processing, but none was required.
+Running post-processing for post 252
+Could not find the author for "Why Are the Lights Flickering?" (post #252)
+Post 252 was imported with author "navanathb", but could not be found
+Post 252 was marked for post-processing, but none was required.
+Running post-processing for post 253
+Could not find the author for "Using a Multimeter at Home" (post #253)
+Post 253 was imported with author "navanathb", but could not be found
+Post 253 was marked for post-processing, but none was required.
+Running post-processing for post 377
+Could not find the author for "Blog" (post #377)
+Post 377 was imported with author "navanathb", but could not be found
+Post 377 was marked for post-processing, but none was required.
+Running post-processing for post 424
+Could not find the author for "astra" (post #424)
+Post 424 was imported with author "harshadd", but could not be found
+Post 424 was marked for post-processing, but none was required.
+Running post-processing for post 490
+Could not find the author for "Footer" (post #490)
+Post 490 was imported with author "harshadd", but could not be found
+Post 490 was marked for post-processing, but none was required.
+Running post-processing for post 898
+Could not find the author for "Bugs in Your Electrical Outlet: It Really Can Happen" (post #898)
+Post 898 was imported with author "navanathb", but could not be found
+Post 898 was marked for post-processing, but none was required.
+Running post-processing for post 910
+Could not find the author for "electric-blog-05" (post #910)
+Post 910 was imported with author "navanathb", but could not be found
+Post 910 was marked for post-processing, but none was required.
+Running post-processing for post 911
+Could not find the author for "electric-blog-06" (post #911)
+Post 911 was imported with author "navanathb", but could not be found
+Post 911 was marked for post-processing, but none was required.
+Running post-processing for post 920
+Could not find the author for "" (post #920)
+Post 920 was imported with author "navanathb", but could not be found
+Post 920 was marked for post-processing, but none was required.
+Running post-processing for post 921
+Could not find the author for "Footer Enquiry Form" (post #921)
+Post 921 was imported with author "harshadd", but could not be found
+Post 921 was marked for post-processing, but none was required.
+Running post-processing for post 133
+Could not find the author for "Hero Section Enquiry Form" (post #133)
+Post 133 was imported with author "harshadd", but could not be found
+Post 133 was marked for post-processing, but none was required.
+Running post-processing for post 255
+Could not find the author for "When Should You Schedule an Electrical Inspection?" (post #255)
+Post 255 was imported with author "navanathb", but could not be found
+Post 255 was marked for post-processing, but none was required.
+Running post-processing for post 261
+Could not find the author for "What is a Ground Wire, and Why Is It Important?" (post #261)
+Post 261 was imported with author "navanathb", but could not be found
+Post 261 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 20:55:54 UTC
+
+---
+
+4. Importing "Widgets"  - 20:55:55 UTC
+Sidebar: sidebar-1
+Widget: "Buscar" - Widget already exists
+Widget: "Entradas recientes" - Widget already exists
+Widget: "Comentarios recientes" - Widget already exists
+Widget: "Archivos" - Widget already exists
+Widget: "Categorías" - Widget already exists
+Widget: "Meta" - Widget already exists
+Sidebar: header-widget
+Widget: "Texto" - Imported
+
+---
+
+Import Complete!  - 20:55:57 UTC
