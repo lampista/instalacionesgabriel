@@ -3,11 +3,11 @@
 	font-weight: normal;
 	font-style: normal;
 
-	src: url("../fonts/fontello.eot?26825208");
-	src: url("../fonts/fontello.eot?26825208#iefix") format("embedded-opentype"),
-	url("../fonts/fontello.woff?26825208") format("woff"),
-	url("../fonts/fontello.ttf?26825208") format("truetype"),
-	url("../fonts/fontello.svg?26825208#fontello") format("svg");
+	src: url("https://lampista.github.io/instalacionesgabriel/wp-content/plugins/scroll-top/assets/fonts/fontello.eot?26825208");
+	src: url("https://lampista.github.io/instalacionesgabriel/wp-content/plugins/scroll-top/assets/fonts/fontello.eot?26825208#iefix") format("embedded-opentype"),
+	url("https://lampista.github.io/instalacionesgabriel/wp-content/plugins/scroll-top/assets/fonts/fontello.woff?26825208") format("woff"),
+	url("https://lampista.github.io/instalacionesgabriel/wp-content/plugins/scroll-top/assets/fonts/fontello.ttf?26825208") format("truetype"),
+	url("https://lampista.github.io/instalacionesgabriel/wp-content/plugins/scroll-top/assets/fonts/fontello.svg?26825208#fontello") format("svg");
 }
 
 [class^="icon-"]:before,

@@ -3,10 +3,10 @@
 /* Mobile Menu Admin CSS Style*/
 @font-face {
   font-family: 'mobmenu';
- src: url('font/mobmenu.eot?31192480');
-  src: url('font/mobmenu.eot?31192480#iefix') format('embedded-opentype'),
-       url('font/mobmenu.ttf?31192480') format('truetype'),
-       url('font/mobmenu.svg?31192480#mobmenu') format('svg');
+ src: url('https://lampista.github.io/instalacionesgabriel/wp-content/plugins/mobile-menu/includes/css/font/mobmenu.eot?31192480');
+  src: url('https://lampista.github.io/instalacionesgabriel/wp-content/plugins/mobile-menu/includes/css/font/mobmenu.eot?31192480#iefix') format('embedded-opentype'),
+       url('https://lampista.github.io/instalacionesgabriel/wp-content/plugins/mobile-menu/includes/css/font/mobmenu.ttf?31192480') format('truetype'),
+       url('https://lampista.github.io/instalacionesgabriel/wp-content/plugins/mobile-menu/includes/css/font/mobmenu.svg?31192480#mobmenu') format('svg');
   font-weight: normal;
   font-style: normal;
 }
